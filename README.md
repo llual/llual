@@ -11,7 +11,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 sudo apt-get upgrade
 
 #4
-git clone https://github.com/llual/llual.git
+git clone https://github.com/llual.git
 
 #5
 cd llual
